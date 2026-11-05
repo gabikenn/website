@@ -1,0 +1,31 @@
+body {
+  background-color: #fdf6f0;
+}
+
+h1 {
+  color:#FC8CA8;
+  background-color: #FBDCE2;
+  padding-left: 115px;
+  font-size: 50px;
+}
+
+nav ul {
+    font-size: 20px;
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+}
+
+nav ul li {
+    margin: 5px;
+}
+
+nav ul a, nav ul a:visited {
+    color: #6D75F1;
+    text-decoration: none;
+    padding: 5px;
+}
+
+nav ul a:hover {
+    background-color: #EBF0F2;
+}
